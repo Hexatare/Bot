@@ -1,0 +1,33 @@
+[settings]
+allow_nsfw = false
+theme = "dark"
+times_to_run = 50
+opacity = 0.9
+transition = 0.2
+storymode = false
+
+[settings.background]
+background_choice = "minecraft"
+
+[settings.tts]
+voice_choice = "streamlabspolly"
+aws_polly_voice = "Matthew"
+streamlabs_polly_voice = "Matthew"
+tiktok_voice = "en_us_006"
+python_voice = "1"
+py_voice_num = "2"
+
+[reddit.creds]
+client_id = "2gzeerGccnFu2pKvjN3Oog"
+client_secret = "1nSihvcfgbNzYnW8pSLaVUO8h_v2Rw"
+username = "Outrageous-Rice-2468"
+password = "A37S9xQaWjy1GIqGR1^3"
+2fa = false
+
+[reddit.thread]
+random = false
+subreddit = "AskReddit"
+post_id = ""
+max_comment_length = 500
+post_lang = ""
+min_comments = 20
